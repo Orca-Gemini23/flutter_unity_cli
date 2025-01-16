@@ -18,7 +18,7 @@ dependencies:
   args: ^1.6.0
   dart_console: ^0.6.1
   version: ^1.2.0
-  tuple: ^1.0.3
+  tuple: ^2.0.2
   pubspec_yaml: ^2.0.1
   pub_semver: ^2.1.5
   yaml_modify: ^0.1.3
